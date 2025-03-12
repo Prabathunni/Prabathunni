@@ -27,8 +27,6 @@ I'm a **self-taught web developer** currently learning the **MERN stack** and pa
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Prabathunni&show_icons=true&theme=radical)  
 
-## 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabathunni&theme=radical)  
 
 
 
