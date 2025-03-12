@@ -24,10 +24,14 @@ I'm a **self-taught web developer** currently learning the **MERN stack** and pa
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ---
-
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Prabathunni=your-Prabathunni&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Prabathunni=your-Prbathunni&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Prabathunni&show_icons=true&theme=radical)  
+
+## 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabathunni&theme=radical)  
+
+
+
 
 ---
 
