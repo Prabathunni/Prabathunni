@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a **self-taught web developer** currently learning the **MERN stack** and passionate about crafting engaging web experiences. I enjoy building projects that help me grow as a developer while experimenting with new tools and frameworks.  
+I'm a **MERN Stack Developer** passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills.  
 
 ## 🛠️ Tech Stack  
 ### **Frontend:**  
