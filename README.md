@@ -24,6 +24,7 @@ Goal :📈to master full-stack development and build scalable web applications.
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Prabathunni&show_icons=true&theme=dark)
 
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=Prabathunni&theme=radical)
 
 
 
