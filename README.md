@@ -21,15 +21,16 @@ Goal :📈to master full-stack development and build scalable web applications.
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
 
 ---
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Prabathunni&show_icons=true&theme=dark)
+
 
 
 <table>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabathunni&theme=radical&hide_border=true&card_width=500" /></td>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prabathunni&layout=compact&theme=radical&card_width=500" /></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prabathunni&show_icons=true&theme=radical&hide_border=true&card_width=500" /></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prabathunni&layout=compact&theme=radical&hide_border=true&card_width=500" /></td>
   </tr>
 </table>
+
 
 
 
