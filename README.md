@@ -24,12 +24,11 @@ Goal :📈to master full-stack development and build scalable web applications.
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Prabathunni&show_icons=true&theme=dark)
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Prabathunni&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabathunni&theme=radical)
 
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prabathunni&layout=compact&theme=radical) 
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
