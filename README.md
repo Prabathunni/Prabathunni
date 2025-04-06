@@ -1,7 +1,7 @@
 # Hey, I'm Prabath  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/prabath77/)
-[![Website](https://img.shields.io/badge/Website-white?style=flat&logo=Google-Chrome&logoColor=white)](https://craftedbyprabath.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-grey?style=flat&logo=Google-Chrome&logoColor=white)](https://craftedbyprabath.vercel.app/)
 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram)](https://www.instagram.com/sethuramxn/)
 
 
