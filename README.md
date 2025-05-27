@@ -10,7 +10,7 @@
 
 ## About Me  
 I'm a **MERN Stack Developer** passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills. 
-Goal :📈 to master full-stack development and build scalable web applications.
+Goal :📈to master full-stack development and build scalable web applications.
 
 ## Tech Stack  
 ### **Frontend:**  
