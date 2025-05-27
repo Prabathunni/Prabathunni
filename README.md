@@ -40,7 +40,7 @@ Goal :📈to master full-stack development and build scalable web applications.
 ---
 
 ## 📫 Connect with Me  
-💬 Feel free to reach out for collaborations!  
+
 📧 **Email:** prabathunni826@gmail.com 
 
 
