@@ -42,28 +42,16 @@ Goal: 📈 to master full-stack development and build scalable web applications.
 ---
 
 ## Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prabathunni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prabathunni's GitHub Stats" width="400" />
+<p align="start">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabathunni&theme=tokyonight&hide_border=true" alt="Prabathunni's GitHub Streak" width="400" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prabathunni&layout=compact&theme=tokyonight&hide_border=true" alt="Prabathunni's Top Languages" width="400" />
 </p>
 
 ---
 
-## Featured Projects
-Explore my work:  
-- 🖥️ **[React Chat App](https://github.com/Prabathunni)**: A real-time chat application built with React, Node.js, Express, and Firebase, deployed on Vercel.  
-- 🎮 **[Rock Paper Scissors Game](https://github.com/Prabathunni)**: A responsive 2D game using React hooks, Framer Motion, and Bootstrap.  
-- 🛠️ **[Linux Automation Scripts](https://github.com/Prabathunni)**: Bash scripts for automating system administration tasks on RHEL servers.
-
-*Check my repositories for more projects!*
-
----
 
 ## Connect with Me
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/prabath77/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://craftedbyprabath.vercel.app/"><img src="https://img.shields.io/badge/-Website-808080?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.instagram.com/sethuramxn/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
