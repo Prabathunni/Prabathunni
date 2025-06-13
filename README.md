@@ -43,10 +43,9 @@ Goal: 📈 to master full-stack development and build scalable web applications.
 
 ## Stats & Activity
 <p align="start">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabathunni&theme=tokyonight&hide_border=true" alt="Prabathunni's GitHub Streak" width="400" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prabathunni&layout=compact&theme=tokyonight&hide_border=true" alt="Prabathunni's Top Languages" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabathunni&theme=tokyonight&hide_border=true" alt="Prabathunni's GitHub Streak" width="400" height="200" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prabathunni&layout=compact&theme=tokyonight&hide_border=true" alt="Prabathunni's Top Languages" width="400" height="200" />
 </p>
-
 ---
 
 
