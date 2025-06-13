@@ -29,10 +29,14 @@ I'm a **MERN Stack Developer** passionate about building web applications and ex
 
 ##  GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Prabathunni&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prabathunni&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<br/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prabathunni&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+<p align="start">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prabathunni&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prabathunni&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="start">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prabathunni&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
