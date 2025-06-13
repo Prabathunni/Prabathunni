@@ -37,7 +37,10 @@ I'm a ***MERN Stack Developer*** passionate about building web applications and 
 
 ##  Certifications
 
-![RHCSA](https://img.shields.io/badge/RHCSA-Certified-E00B0B?style=for-the-badge&logo=redhat&logoColor=white)
+<a href="[https://www.linkedin.com/in/prabath77/](https://www.credly.com/badges/878e3501-7a75-42d4-9c69-cf0ad3222013/linked_in_profile)">
+  ![RHCSA](https://img.shields.io/badge/RHCSA-Certified-E00B0B?style=for-the-badge&logo=redhat&logoColor=white)
+</a>
+
 
 <br>
 
