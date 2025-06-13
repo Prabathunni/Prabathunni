@@ -26,13 +26,25 @@ Goal :📈to master full-stack development and build scalable web applications.
 
 
 
+## My Tech Stack & Stats
+
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prabathunni&show_icons=true&theme=radical&hide_border=true&card_width=500" /></td>
-    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prabathunni&layout=compact&theme=radical&hide_border=true&card_width=500" /></td>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prabathunni&show_icons=true&theme=dracula&hide_border=true&card_width=500" alt="Prabathunni's GitHub Stats" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabathunni&theme=dracula&hide_border=true&card_width=500" alt="Prabathunni's GitHub Streak" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prabathunni&layout=compact&theme=dracula&hide_border=true&card_width=500" alt="Prabathunni's Top Languages" /></td>
+    <td>
+      <p><strong>Skills & Tools</strong></p>
+      <img src="https://img.shields.io/badge/-Express-303030?style=flat&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/-Red%20Hat-E00B0B?style=flat&logo=redhat&logoColor=white" alt="Red Hat" />
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+    </td>
   </tr>
 </table>
-
 
 
 
