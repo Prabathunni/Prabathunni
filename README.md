@@ -20,7 +20,7 @@
 
 ##  About Me
 
-I'm a **MERN Stack Developer** passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills. I’m also a **Red Hat Certified System Administrator (RHCSA)**, skilled in Linux system administration.  
+I'm a ***MERN Stack Developer*** passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills. I’m also a ***Red Hat Certified System Administrator (RHCSA)***, skilled in Linux system administration.  
 **Goal:** 📈 To master full-stack development and build scalable web applications.
 
 ---
@@ -55,4 +55,4 @@ I'm a **MERN Stack Developer** passionate about building web applications and ex
 ---
 
 
-** Email:** [prabathunni826@gmail.com](mailto:prabathunni826@gmail.com)
+**Email:** [prabathunni826@gmail.com](mailto:prabathunni826@gmail.com)
