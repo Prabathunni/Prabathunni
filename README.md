@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Prabath!;MERN+Stack+Developer;Linux+System+Administrator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Prabath!;MERN+Stack+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About Me
-👋 I'm **Prabath**, a **MERN Stack Developer** and **Red Hat Certified System Administrator (RHCSA)** passionate about crafting efficient, user-friendly web applications and managing robust Linux systems. I thrive on turning ideas into reality through clean code and scalable solutions.  
-🎯 **Goal**: Build innovative full-stack applications and master DevOps practices.
+I'm a **MERN Stack Developer** passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills. I’m also a **Red Hat Certified System Administrator (RHCSA)**, skilled in Linux system administration.
+Goal: 📈 to master full-stack development and build scalable web applications.
 
 ---
 
