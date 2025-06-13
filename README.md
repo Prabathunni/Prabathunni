@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Prabath!;MERN+Stack+Developer" alt="Typing SVG" />
 </p>
 
-##  Connect with Me
+---
 
 <a href="https://www.linkedin.com/in/prabath77/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
