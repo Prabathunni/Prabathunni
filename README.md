@@ -35,7 +35,7 @@ I'm a **MERN Stack Developer** passionate about building web applications and ex
 </p>
 
 <p align="start">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prabathunni&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prabathunni&layout=compact&theme=tokyonight&hide_border=true" width="118%" />
 </p>
 
 ---
