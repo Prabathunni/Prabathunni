@@ -11,7 +11,7 @@ I'm a ***MERN Stack Developer*** passionate about building web applications and 
 <hr>
 
 > ##### TECH
-<img width="25" height="25" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png" />
+<img width="60" height="60" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png" />
 
 
 
