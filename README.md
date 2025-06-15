@@ -1,5 +1,15 @@
 ![banner](./banner.png)
 
+<br>
+
+> Hi i'm Prabath
+
+
+####  About Me
+
+I'm a ***MERN Stack Developer*** passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills. I’m also a ***Red Hat Certified System Administrator (RHCSA)***, skilled in Linux system administration.  
+**Goal:** 📈 To master full-stack development and build scalable web applications.
+
 
 <a href="https://www.linkedin.com/in/prabath77/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -16,10 +26,7 @@
 
 <br>
 
-##  About Me
 
-I'm a ***MERN Stack Developer*** passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills. I’m also a ***Red Hat Certified System Administrator (RHCSA)***, skilled in Linux system administration.  
-**Goal:** 📈 To master full-stack development and build scalable web applications.
 
 <br>
 
