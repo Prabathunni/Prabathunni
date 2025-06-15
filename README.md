@@ -1,7 +1,4 @@
-<p>
-  <img width="650" height="150" src="./banner.png" align="left" />
-  <img src="https://i.pinimg.com/originals/63/85/51/638551f535fa0c0fdbcb72da36bd7025.gif" width="100" height="75" align="right"  />
-</p>
+
 
 > ### Hi i'm  `Prabath`  
 
@@ -40,13 +37,14 @@ _I'm a **MERN Stack Developer** passionate about building web applications and e
 
 ##### Certifications
 
-<a href="https://www.credly.com/badges/878e3501-7a75-42d4-9c69-cf0ad3222013/linked_in_profile" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJWYD38ldjVgeTVb6QBQeTWuE5i-cWCP-Lg&s" width="85" height="35" alt="RHCSA Badge" /></a>
-
-##
-
 <p>
+<a href="https://www.credly.com/badges/878e3501-7a75-42d4-9c69-cf0ad3222013/linked_in_profile" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJWYD38ldjVgeTVb6QBQeTWuE5i-cWCP-Lg&s" width="85" height="35" alt="RHCSA Badge" /></a>
+  
 <img src="https://i.pinimg.com/originals/63/85/51/638551f535fa0c0fdbcb72da36bd7025.gif" width="100" height="75" align="right"  />
 </p>
+
+
+
 
 
 
