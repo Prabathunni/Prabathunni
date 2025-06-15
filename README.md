@@ -12,7 +12,7 @@ I'm a ***MERN Stack Developer*** passionate about building web applications and 
 
 
 <a href="https://www.linkedin.com/in/prabath77/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" />
 </a>
 
 <a href="https://craftedbyprabath.vercel.app/">
