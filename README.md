@@ -1,5 +1,5 @@
 <p>
-  <img width="500" height="250" src="./banner.png"/>
+  <img width="700" height="200" src="./banner.png"/>
 </p>
 
 > ### Hi i'm  `Prabath`  
