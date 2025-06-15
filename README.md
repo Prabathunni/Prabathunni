@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Prabath!;MERN+Stack+Developer" alt="Typing SVG" />
-</p>
+![banner](./banner.png)
 
 
 <a href="https://www.linkedin.com/in/prabath77/">
