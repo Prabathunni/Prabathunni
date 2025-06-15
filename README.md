@@ -5,7 +5,7 @@
 
 ####  About Me
 __I'm a MERN Stack Developer passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills.__  
-**Goal:** 📈 To master full-stack development and build scalable web applications.
+__Goal: 📈 To master full-stack development and build scalable web applications.__
 
 ##
 
