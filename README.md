@@ -40,7 +40,7 @@ _I'm a **MERN Stack Developer** passionate about building web applications and e
 <p>
 <a href="https://www.credly.com/badges/878e3501-7a75-42d4-9c69-cf0ad3222013/linked_in_profile" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJWYD38ldjVgeTVb6QBQeTWuE5i-cWCP-Lg&s" width="85" height="35" alt="RHCSA Badge" /></a>
   
-<img width="100" height="100" src="https://i.gifer.com/3IsP.gif" align="right" />
+<img width="80" height="80" src="https://i.gifer.com/3IsP.gif" align="right" />
 </p>
 
 
