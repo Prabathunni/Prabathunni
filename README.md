@@ -1,5 +1,6 @@
 <p>
-  <img width="700" height="200" src="./banner.png"/>
+  <img width="650" height="150" src="./banner.png" align="left" />
+  <img src="https://i.pinimg.com/originals/63/85/51/638551f535fa0c0fdbcb72da36bd7025.gif" width="100" height="75" align="right"  />
 </p>
 
 > ### Hi i'm  `Prabath`  
