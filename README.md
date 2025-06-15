@@ -3,8 +3,8 @@
 > ### Hi i'm  `Prabath`  
 
 
-#####  About Me
-I'm a __MERN Stack Developer__ passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills.  
+####  About Me
+#### I'm a __MERN Stack Developer__ passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills. ####  
 **Goal:** 📈 To master full-stack development and build scalable web applications.
 
 ##
