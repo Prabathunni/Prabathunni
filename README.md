@@ -12,7 +12,7 @@ I'm a ***MERN Stack Developer*** passionate about building web applications and 
 
 
 <a href="https://www.linkedin.com/in/prabath77/">
-  <img width="100px" height="100px" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" />
+  <img width="20" height="20" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" />
 </a>
 
 <a href="https://craftedbyprabath.vercel.app/">
