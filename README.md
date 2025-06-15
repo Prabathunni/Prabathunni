@@ -23,7 +23,10 @@ I'm a __MERN Stack Developer__ passionate about building web applications and ex
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" />&nbsp;
 <img width="35" height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" />&nbsp;
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" />&nbsp;
-<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968896.png" />
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968896.png" />&nbsp;
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />&nbsp;
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/226/226777.png" />
+
 
 
 
