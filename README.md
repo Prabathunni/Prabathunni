@@ -7,8 +7,7 @@
 > _I'm a **MERN Stack Developer** passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills. I’m also a ***Red Hat Certified > System Administrator (RHCSA)***, skilled in Linux system administration._  
 > **Goal:** 📈 To master full-stack development and build scalable web applications.
 >
- ---
-<hr>
+
 
 ##### TECH
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" />&nbsp;
