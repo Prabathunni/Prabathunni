@@ -11,15 +11,10 @@ I'm a ***MERN Stack Developer*** passionate about building web applications and 
 **Goal:** 📈 To master full-stack development and build scalable web applications.
 
 
-<a href="https://www.linkedin.com/in/prabath77/">
-  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" />
-</a>
+<a href="https://www.linkedin.com/in/prabath77/"><img width="40" height="40" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png"/></a>
 
+<a href="https://craftedbyprabath.vercel.app/"><img width="40" height="40" src="https://cdn-icons-png.flaticon.com/128/15831/15831831.png"/></a>
 
-
-<a href="https://craftedbyprabath.vercel.app/">
-  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/128/15831/15831831.png" />
-</a>
 
 
 
