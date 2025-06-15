@@ -41,6 +41,6 @@ _I'm a **MERN Stack Developer** passionate about building web applications and e
 
 
 
-<img width="50" height="50" src="https://i.pinimg.com/originals/63/85/51/638551f535fa0c0fdbcb72da36bd7025.gif" />
+<img width="125" height="125" src="https://i.pinimg.com/originals/63/85/51/638551f535fa0c0fdbcb72da36bd7025.gif" />
 
 
