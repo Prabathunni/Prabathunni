@@ -1,4 +1,4 @@
-![banner](./poster.png)
+![banner](./banner.png)
 
 
 <a href="https://www.linkedin.com/in/prabath77/">
