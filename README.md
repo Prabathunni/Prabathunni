@@ -16,7 +16,7 @@ I'm a ***MERN Stack Developer*** passionate about building web applications and 
 </a>
 
 <a href="https://craftedbyprabath.vercel.app/">
-  <img src="https://img.shields.io/badge/-Website-24292e?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
+  <img width="45" height="45" src="https://www.flaticon.com/free-icon/link_2985013" />
 </a>
 
 <a href="https://www.instagram.com/sethuramxn/">
