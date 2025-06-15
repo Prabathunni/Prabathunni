@@ -5,13 +5,13 @@
 
 #####  About Me
 
-I'm a ***MERN Stack Developer*** passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills. I’m also a ***Red Hat Certified System Administrator (RHCSA)***, skilled in Linux system administration.  
-**Goal:** 📈 To master full-stack development and build scalable web applications.
+_I'm a **MERN Stack Developer** passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills. I’m also a ***Red Hat Certified System Administrator (RHCSA)***, skilled in Linux system administration.  
+**Goal:** 📈 To master full-stack development and build scalable web applications._
 
 <hr>
 
-> ##### TECH
-<img width="60" height="60" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png" />
+##### TECH
+<img width="55" height="55" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png" /> <img width="55" height="55" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" /> <img width="55" height="55" src="https://w7.pngwing.com/pngs/429/921/png-transparent-mongodb-plain-wordmark-logo-icon.png" /> 
 
 
 
