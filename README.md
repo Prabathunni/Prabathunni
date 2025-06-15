@@ -1,4 +1,6 @@
-
+<p>
+  <img width="500" height="250" src="./banner.png"/>
+</p>
 
 > ### Hi i'm  `Prabath`  
 
