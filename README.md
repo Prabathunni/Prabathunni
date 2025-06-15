@@ -28,7 +28,9 @@ _I'm a **MERN Stack Developer** passionate about building web applications and e
 
 ##### Connect via
 
-<a href="https://www.linkedin.com/in/prabath77/"><img width="25" height="25" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png"/></a>  <a href="https://craftedbyprabath.vercel.app/"><img width="25" height="25" src="https://cdn-icons-png.flaticon.com/128/15831/15831831.png"/></a>  <a href="https://www.instagram.com/sethuramxn/"><img width="25" height="25" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png"/></a> <a href="mailto:prabathunni826@gmail.com"><img width="25" height="25" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" alt="Email icon"></a>
+<a href="https://www.linkedin.com/in/prabath77/"><img width="25" height="25" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png"/></a>  <a href="https://craftedbyprabath.vercel.app/"><img width="25" height="25" src="https://cdn-icons-png.flaticon.com/128/15831/15831831.png"/></a>  <a href="https://www.instagram.com/sethuramxn/"><img width="25" height="25" src="https://cdn-icons-png.flaticon.com/128/15713/15713420.png"/></a>  
+
+[email](prabathunni826@gmail.com)
 
 
 
