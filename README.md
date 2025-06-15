@@ -12,12 +12,16 @@ I'm a ***MERN Stack Developer*** passionate about building web applications and 
 
 
 <a href="https://www.linkedin.com/in/prabath77/">
-  <img width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" />
+  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/128/2504/2504923.png" />
 </a>
 
+
+
 <a href="https://craftedbyprabath.vercel.app/">
-  <img width="45" height="45" src="https://cdn-icons-png.flaticon.com/128/15831/15831831.png" />
+  <img width="40" height="40" src="https://cdn-icons-png.flaticon.com/128/15831/15831831.png" />
 </a>
+
+
 
 <a href="https://www.instagram.com/sethuramxn/">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
