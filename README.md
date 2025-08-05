@@ -25,6 +25,7 @@ __I'm a MERN Stack Developer passionate about building web applications and expl
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" />&nbsp;
 <img width="35" height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />&nbsp;
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968896.png" />&nbsp;
+<img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" />&nbsp;
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />&nbsp;
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/226/226777.png" />&nbsp;
 <img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" />
