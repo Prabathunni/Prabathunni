@@ -5,9 +5,7 @@
 __I'm a Full Stack Developer passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills.__  
 **Goal: 📈 To master full-stack development and build scalable web applications.**
 
-##
-
-
+<!--
 ##### TECH & TOOL
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" />&nbsp;
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" />&nbsp;
@@ -27,7 +25,7 @@ __I'm a Full Stack Developer passionate about building web applications and expl
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />&nbsp;
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/226/226777.png" />&nbsp;
 <img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" />
-
+-->
 
 
 ##### Connect via
