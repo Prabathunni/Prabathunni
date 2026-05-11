@@ -1,5 +1,3 @@
-
-
 > ### Hi i'm  `Prabath`  
 
 
@@ -11,27 +9,24 @@ __I'm a Full Stack Developer passionate about building web applications and expl
 
 
 ##### TECH & TOOL
-
-<p>
-  <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" />
-  <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" />
-  <img width="35" height="35" src="https://media.licdn.com/dms/image/v2/C4D0BAQFKe8PwqzyHyA/company-logo_200_200/company-logo_200_200/0/1635171226992/mongodbinc_logo?e=2147483647&v=beta&t=JaE0WVXGk0By3HKxPfJ37mMaXctYjXbXF_2KS6qe1Xo" />
-  <img width="35" height="35" src="https://logowik.com/content/uploads/images/express-js1720895496.logowik.com.webp" />
-  <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" />
-  <img width="35" height="35" src="https://img.icons8.com/color/512/ejs.png" />
-  <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" />
-  <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" />
-  <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/15484/15484297.png" />
-  <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" />
-  <img width="35" height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" />
-  <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" />
-  <img width="35" height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-  <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968896.png" />
-  <img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" />
-  <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />
-  <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/226/226777.png" />
-  <img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" />
-</p>
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" />&nbsp;
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/1126/1126012.png" />&nbsp;
+<img width="35" height="35" src="https://media.licdn.com/dms/image/v2/C4D0BAQFKe8PwqzyHyA/company-logo_200_200/company-logo_200_200/0/1635171226992/mongodbinc_logo?e=2147483647&v=beta&t=JaE0WVXGk0By3HKxPfJ37mMaXctYjXbXF_2KS6qe1Xo" />&nbsp;
+<img width="35" height="35" src="https://logowik.com/content/uploads/images/express-js1720895496.logowik.com.webp" />&nbsp;
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" />&nbsp;
+<img width="35" height="35" src="https://img.icons8.com/color/512/ejs.png" />&nbsp;
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" />&nbsp;
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" />&nbsp;
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/15484/15484297.png" />&nbsp;
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" />&nbsp;
+<img width="35" height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" />&nbsp;
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" />&nbsp;
+<img width="35" height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />&nbsp;
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968896.png" />&nbsp;
+<img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" />&nbsp;
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />&nbsp;
+<img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/226/226777.png" />&nbsp;
+<img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" />
 
 
 
@@ -50,7 +45,6 @@ __I'm a Full Stack Developer passionate about building web applications and expl
   
 <img width="85" height="85" src="https://i.gifer.com/S9Bf.gif" align="right" />
 </p>
-
 
 
 
