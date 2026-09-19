@@ -2,8 +2,7 @@
 
 
 ####  About Me
-__I'm a Full Stack Developer passionate about building web applications and exploring new technologies. I enjoy coding, problem-solving, and continuously improving my skills.__  
-**Goal: 📈 To master full-stack development and build scalable web applications.**
+__I'm a Software Development Engineer with 1+ years of experience. Combining solid full-stack fundamentals with AI tools to build high-performance software.__  
 
 
 ##### TECH & TOOL
@@ -22,6 +21,9 @@ __I'm a Full Stack Developer passionate about building web applications and expl
 <img width="35" height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />&nbsp;
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968896.png" />&nbsp;
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" />&nbsp;
+<img width="35" height="35" src="https://cdn.simpleicons.org/nextdotjs/000000" />&nbsp;
+<img width="35" height="35" src="https://cdn.simpleicons.org/go/00ADD8" />&nbsp;
+<img width="35" height="35" src="https://cdn.simpleicons.org/claude/D97757" />&nbsp;
 <!--
 <img width="35" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/1200px-Typescript.svg.png" />&nbsp;
 <img width="35" height="35" src="https://cdn-icons-png.flaticon.com/128/226/226777.png" />&nbsp;
