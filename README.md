@@ -2,7 +2,7 @@
 
 
 ####  About Me
-__I'm a Software Development Engineer with 1+ years of experience. Combining solid full-stack fundamentals with AI tools to build high-performance software.__  
+__I'm a Software Development Engineer with 2+ years of experience. Combining solid full-stack fundamentals with AI tools to build high-performance software.__  
 
 
 ##### TECH & TOOL
